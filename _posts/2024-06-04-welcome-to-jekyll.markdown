@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2024-06-04 14:20:18 -0400
-categories: jekyll update
+title:  "A Conversation with Jim"
+date:   2024-04-25 8:00:00 -0400
+categories: jim nathaniel friendship music
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Jim showed up! We talked about things, and also listened to each other, but mostly, we were on the radio.
 
 Jekyll requires blog post files to be named according to the following format:
 
